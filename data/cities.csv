@@ -4,6 +4,8 @@ Helsingborg,Malmö,65
 Helsingborg,Göteborg,230
 Göteborg,Malmö,280
 Göteborg,Jönköping,160
+Göteborg,Alingsås,50
+Alingsås,Borås,40
 Göteborg,Borås,65
 Göteborg,Karlstad,265
 Borås,Jönköping,100
@@ -34,6 +36,8 @@ Västerås,Örebro,100
 Örebro,Gävle,250
 Örebro,Falun,200
 Gävle,Falun,50
+Gävle,Hudiksvall,110
+Hudiksvall,Sundsvall,100
 Gävle,Sundsvall,230
 Falun,Östersund,340
 Sundsvall,Härnösand,45
@@ -45,9 +49,11 @@ Varberg,Göteborg,75
 Varberg,Helsingborg,110
 Eskilstuna,Västerås,40
 Eskilstuna,Stockholm,110
+Jukkasjärvi,Alingsås,99999
 Jukkasjärvi,Borås,99999
 Jukkasjärvi,Eskilstuna,99999
 Jukkasjärvi,Falun,99999
+Jukkasjärvi,Hudiksvall,99999
 Jukkasjärvi,Gävle,99999
 Jukkasjärvi,Göteborg,99999
 Jukkasjärvi,Helsingborg,99999
