@@ -1,7 +1,5 @@
-bin/
-obj/
-*.user
+**/bin/
+**/obj/
+.env
+.git/
 .vs/
-.vscode/
-*.suo
-appsettings.Development.json
